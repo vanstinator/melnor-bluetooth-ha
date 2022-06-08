@@ -1,0 +1,9 @@
+{
+  "name": "Melnor Bluetooth",
+  "render_readme": true,
+  "domains": ["binary_sensor", "switch"],
+  "homeassistant": "2022.5.0",
+  "zip_release": true,
+  "filename": "melnor.zip",
+  "iot_class": "local_polling"
+}
